@@ -9,9 +9,9 @@ Gegenstand dieser Ausarbeitung ist die erneute Abschätzung und Bestätigung der
 
 ## Rechtsgrundlage
 
-Kostenteilungen von Kreuzungen ist in §12 Abs. 3 Nr. 2 FStrG in Verbindung mit ... geregelt.
+Durch ein Änderungsverlangen (hier: die Aufweitung) fallen denjenigen Trägern der Straßenbaulast Kosten zur Last, die die Änderung verlangen. Die Kostenteilungen der beteiligten Straßenbaulastträger im Zuge von sog. höhenungleichen Kreuzungen ist in §12 Abs. 3 Nr. 2 FStrG in Verbindung mit der StraKR geregelt.
 
-# Darstellung der einzelnen Varianten
+# Darstellung der einzelnen Brückenvarianten
 
 ## Ersatzneubau gem. Streckenvorentwurf
 
@@ -19,6 +19,8 @@ Das BMVI als Kostenträger der Maßnahme übernimmt entsprechnend des Streckenvo
 
 * Lichte Weite BW: 10,10 m
 * Lichte Höhe BW: 3,80 m
+
+Sämtliche
 
 ## Aufweitungs-Variante 1
 
@@ -36,21 +38,16 @@ Aufweitung der Durchfahrtshöhe und Lichten Weite zur Schaffung der Möglichkeit
 
 # Ermittlung der Beteiligung
 
-Die Ermittlung der möglichen Kostenbeteiligung der Gemeinde Rohrbach erfolgt gemäß der og. Grundlage anteilig e
-
-## Kostenschätzung Ersatzneubau Bauwerk auf Grundlage des aktuellen Planungsstands
-
-- Variante 1:
-- Variante 2:
+Die Ermittlung der möglichen Kostenbeteiligung der Gemeinde Rohrbach erfolgt gemäß der og. Rechtsgrundlage anteilig e
 
 ## Ermittlung der anzusetzenden Fahrbahnbreiten
 
 ### Auf dem Bauwerk
 
 Breite je Fahrstreifen gemäß Regelquerschnitt Streckenvorentwurf: 15,75 m
-Breite Mittelstreifen Autobahn: 3,XX m
+Breite Mittelstreifen Autobahn: 3,40 m
 
-In Summe: XX,XX m
+In Summe: 34,90 m
 
 ### Unter dem Bauwerk
 
@@ -60,15 +57,42 @@ Sämtliche Werte zur Ermittlung der Fahrbahnbreiten unterhalb des Bauwerks basie
 * Mindestbreite Trennstreifen gem. RAL 2012: 1,75 m
 * Mindestbreite Geh- und Radweg gem. RAL 2012: 2,50 m
 
-In Summe: Mindestbreite 10,25 m
+Es ergeben sich somit folgende anzusetzende Fahrbahnbreiten der Straßenbaulast Gemeinde Rohrbach:
+
+- Variante 1: 6,00 m
+- Variante 2: 9,75 m
+
+## Ermittlung des Aufteilungsschlüssels
+
+Der Aufteilungsschlüssel ergibt sich aus dem Verältnis der Fahrbahnbreiten der an der Kreuzung beteiligten Straßenäste.
+
+### Aufweitungsvariante 1
+
+- Fahrbahnbreite Straßenbaulast Bund: 34,90 m
+- Fahrbahnbreite Straßenbaulast Gemeinde Rohrbach: 6,00 m
+- Fahrbahnbreiten gesamt: 40,90 m
+
+Der Aufteilungsschlüssel Bund zu Gemeinde Rohrbach ergibt sich somit: 0,853 zu 0,147
+
+### Aufweitungsvariante 2
+
+- Fahrbahnbreite Straßenbaulast Bund: 34,90 m
+- Fahrbahnbreite Straßenbaulast Gemeinde Rohrbach: 9,75 m
+- Fahrbahnbreiten gesamt: 44,65 m
+
+Der Aufteilungsschlüssel Bund zu Gemeinde Rohrbach ergibt sich somit: 0,782 zu 0,218
 
 ## Kostenschätzung Ersatzneubau Bauwerk auf Grundlage des aktuellen Planungsstands
 
-Die hier genannten Baukosten für 
+Die hier genannten Baukosten für
 
 > Anmerkung: Die Kostenschätzung bei Brückenbauwerken erfolgt über die Brückenfläche multipliziert mit einen entsprechenden Schätzwert der Kosten je m².
 
-- Variante 1: EUR netto
-- Variante 2: EUR netto
+- Variante 1: 1.700.000 EUR netto
+- Variante 2: 1.900.000 EUR netto
+
+## Kosten für die Gemeinde Rohrbach als Folge eines möglichen Aufweitungsverlangens
+
+- Variante 1: 0,147 x 1.700.000 EUR netto = 249.900 EUR netto
 
 ## Zusammenfassung
