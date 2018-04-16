@@ -1,26 +1,29 @@
-# Anlass und Gegenstand
+# Anlass, Beschreibung der Maßnahme
 
 Die Autobahn A9 wird im Bereich vom AD Holledau bis zur AS Langenbruck auf Grund ihres schlechten Zustands grundhaft saniert. Um die Einwirkungen und Verkehrsbehindertungen insgesamt so gering als möglich zu halten, werden die Arbeiten dabei im Rahmen eines sog. Erhaltungsabschnitt gebündelt. Der Umfang der Maßnahme beinhaltet neben der Sanierung der Fahrbahn, der Streckenentwässerung, die Modernisierung der Schutzeinrichtungen auch den Ersatzneubau sämtlicher Unterführungsbauwerke in diesem Abschnitt. Als Zeitfenster für die Durchführung der Gesamtmaßnahme sind die Jahre 2020 und 2021 fest avisiert.
 
-Im Rahmen einer frühen Abstimmung äußerte die Gemeinde Rohrbach den Wunsch, das Brückenbauwerk BW56 - GVS Rohrbach - Wahl im Zuge des Ersatzneubaus aufzuweiten und bat die Autobahndirektion Südbayern im Rahmen einer Variantenuntersuchtung die von der Gemeinde entsprechend zu tragenden Kosten zu beziffern.
+Im Rahmen einer frühen Abstimmung äußerte die Gemeinde Rohrbach die Absicht das Brückenbauwerk BW54 - GVS Rohrbach - Wahl im Zuge seines Ersatzneubaus aufzuweiten und bat die Autobahndirektion Südbayern den entsprechende Kostenanteil der Aufweitung, der durch die Gemeinde zu tragenden Kosten ist, zu beziffern.
 
 Gegenstand dieser Ausarbeitung ist die erneute Abschätzung und Bestätigung der im Jahre 201 genannten der durch die Gemeinde Rohrbach zu tragebenden Kosten
-
 
 ## Rechtsgrundlage
 
 Durch ein Änderungsverlangen (hier: die Aufweitung) fallen denjenigen Trägern der Straßenbaulast Kosten zur Last, die die Änderung verlangen. Die Kostenteilungen der beteiligten Straßenbaulastträger im Zuge von sog. höhenungleichen Kreuzungen ist in §12 Abs. 3 Nr. 2 FStrG in Verbindung mit der StraKR geregelt.
 
-# Darstellung der einzelnen Brückenvarianten
+## Verlangen des Bundes
 
-## Ersatzneubau gem. Streckenvorentwurf
+Die Gesamtmaßnahme ist als reiner Erhaltungsabschnitt konzipiert, d.h. die Fahrbahn der Autobahn A9 sowie sämtliche Überführungsbauwerke werden fahrbahnseitig bestandsorientiert und in weitgehend identischen Abmessungen hergestellt.
 
 Das BMVI als Kostenträger der Maßnahme übernimmt entsprechnend des Streckenvorentwurfs die Kosten für folgende Abmessungen des Bauwerks BW56 übernommen:
 
 * Lichte Weite BW: 10,10 m
 * Lichte Höhe BW: 3,80 m
 
-Sämtliche
+
+
+## Aufweitungsverlangen der Gemeinde Rohrbach
+
+Bei einem zwei finale Varianten untersuchtt.
 
 ## Aufweitungs-Variante 1
 
@@ -40,7 +43,7 @@ Aufweitung der Durchfahrtshöhe und Lichten Weite zur Schaffung der Möglichkeit
 
 Die Ermittlung der möglichen Kostenbeteiligung der Gemeinde Rohrbach erfolgt gemäß der og. Rechtsgrundlage anteilig e
 
-## Ermittlung der anzusetzenden Fahrbahnbreiten
+## Ansatz Fahrbahnbreiten
 
 ### Auf dem Bauwerk
 
